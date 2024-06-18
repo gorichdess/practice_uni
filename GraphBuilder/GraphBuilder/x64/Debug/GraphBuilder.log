@@ -1,0 +1,10 @@
+﻿  GraphB.cpp
+  Source.cpp
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\Source.cpp(13,21): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\Source.cpp(73,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\Source.cpp(74,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\Source.cpp(75,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\Source.cpp(76,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  GraphB.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GraphBuilder.vcxproj -> C:\Users\катя\Documents\programing\GraphBuilder\x64\Debug\GraphBuilder.exe

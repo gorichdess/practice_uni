@@ -1,0 +1,3 @@
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\x64\Debug\GraphBuilder.vcxproj.AssemblyReference.cache
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\x64\Debug\GraphBuilder.GraphB.resources
+C:\Users\катя\Documents\programing\GraphBuilder\GraphBuilder\x64\Debug\GraphBuilder.vcxproj.GenerateResource.cache
